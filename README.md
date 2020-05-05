@@ -1,12 +1,9 @@
-# mapapp
-System requirement
+# System requirement
 
-PHP 5.4
-MYSQL 5.0
+PHP 5.4 MYSQL 5.0
 
 #setup
-Create database with the db/db_dump.sql file
-Modify DB acccess info at last line of mvc/mvc_config.php
+Create database with the db/db_dump.sql Modify DB acccess info at last line of mvc/mvc_config.php
 
-Login/Register users at domain.com/login.php
+#Login/Register users at domain.com/login.php
 
